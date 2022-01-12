@@ -1,0 +1,1 @@
+Get-Service | Where-Object {$_.Status -eq "Running"} | Export-Clixml Baseline-Service.xml
