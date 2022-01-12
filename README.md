@@ -1,2 +1,2 @@
 # eCTHPv2
-Collection of scripts and tools related to the eCTHPv2 exam by INE.
+Collection of scripts and tools, obtained from the INE Threat Hunting Professional couse, related to the eCTHPv2 exam by eLearnSecurity.
